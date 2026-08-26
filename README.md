@@ -4,6 +4,8 @@
 
 CaYaDiscordBot-GUI is a Windows desktop control center for running and managing a Discord bot without editing configuration files by hand. It combines Discord server management, moderation, music, games, local AI, web research and image workflows in a single Electron application.
 
+![Cover](Cover.png)
+
 ## Highlights
 
 - Secure Discord bot token storage using the operating system's protected storage APIs.

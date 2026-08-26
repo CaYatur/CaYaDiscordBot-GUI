@@ -4,6 +4,8 @@
 
 CaYaDiscordBot-GUI, yapılandırma dosyalarını elle düzenlemeden bir Discord botunu çalıştırmak ve yönetmek için hazırlanmış Windows masaüstü kontrol merkezidir. Discord sunucu yönetimi, moderasyon, müzik, oyunlar, yerel yapay zeka, web araştırması ve görsel iş akışlarını tek bir Electron uygulamasında birleştirir.
 
+![Cover](Cover.png)
+
 ## Öne çıkanlar
 
 - Discord bot tokeninin işletim sisteminin korumalı depolama API'leriyle güvenli saklanması.
